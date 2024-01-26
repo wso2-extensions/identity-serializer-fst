@@ -113,7 +113,7 @@
     <properties>
         <org.objenesis.version>3.2</org.objenesis.version>
         <de.ruedigermoeller.fst.version>2.56</de.ruedigermoeller.fst.version>
-        <carbon.identity.framework.package.import.version.range>[5.20.136,7.0.0)
+        <carbon.identity.framework.package.import.version.range>[5.20.136,8.0.0)
         </carbon.identity.framework.package.import.version.range>
         <org.mockito.version>1.10.19</org.mockito.version>
         <maven.surefire.plugin.version>2.22.0</maven.surefire.plugin.version>
@@ -123,7 +123,7 @@
         <carbon.identity.framework.version>5.20.136</carbon.identity.framework.version>
         <carbon.identity.application.authenticator.basicauth.imp.pkg.version.range>[6.3,7)
         </carbon.identity.application.authenticator.basicauth.imp.pkg.version.range>
-        <identity.oidc.session.package.import.version.range>[6.7,7)</identity.oidc.session.package.import.version.range>
+        <identity.oidc.session.package.import.version.range>[6.7,8)</identity.oidc.session.package.import.version.range>
         <osgi.framework.imp.pkg.version.range>[1.7.0, 2.0.0)</osgi.framework.imp.pkg.version.range>
         <osgi.service.component.imp.pkg.version.range>[1.2.0, 2.0.0)</osgi.service.component.imp.pkg.version.range>
         <maven.scr.plugin.version>1.24.0</maven.scr.plugin.version>
