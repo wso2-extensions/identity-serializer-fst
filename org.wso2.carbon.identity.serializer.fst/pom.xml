@@ -54,7 +54,8 @@
                         <private-package>org.wso2.carbon.identity.serializer.fst.internal</private-package>
                         <Export-Package>
                             !org.wso2.carbon.identity.serializer.fst.internal,
-                            org.wso2.carbon.identity.serializer.fst.*
+                            org.wso2.carbon.identity.serializer.fst.*,
+                            org.nustaq.serialization.annotations
                         </Export-Package>
                         <Import-Package>
                             org.osgi.framework; version="${osgi.framework.imp.pkg.version.range}",
